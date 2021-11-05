@@ -5,7 +5,7 @@
 This repository is created for learning purpose only. I am new to Spring Boot Framework and want to learn it very deeply.
 
 # About Repository
-In this repository, I have consumed Google Books Search API in its raw form. "https://www.googleapis.com/books/v1/volumes?q=<KEYWORD>"
+In this repository, I have consumed Google Books Search API in its raw form. "https://www.googleapis.com/books/v1/volumes?q=KEYWORD"
 replace KEYWORD with any book title you want to search with API.
 
 # Problem I'm facing
