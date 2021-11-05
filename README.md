@@ -2,7 +2,7 @@
 @Author : Dhiraj Kumar Burnwal
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-This repository is created for learning purpose only. I am new to Spring Boot Framework and want to lear it very deeply.
+This repository is created for learning purpose only. I am new to Spring Boot Framework and want to learn it very deeply.
 
 # About Repository
 In this repository, I have consumed Google Books Search API in its raw form. "https://www.googleapis.com/books/v1/volumes?q=<KEYWORD>"
